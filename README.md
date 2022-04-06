@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshots
 
-[Desktop Screenshot](.images/screenshot-desktop.png)
-[Mobile Screenshot](.images/screenshot-mobile.png)
+[Desktop Screenshot](images/screenshot-desktop.png)
+[Mobile Screenshot](images/screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/faq-accordion-card-HkwPsSoX9)
+- [Live Site URL](https://dark-dave007.github.io/FAQ-accordion-card/)
 
 ### Built with
 
