@@ -102,8 +102,10 @@ details {
 details > summary {
   cursor: pointer;
   border: none;
-  list-style-image: url('images/icon-arrow-down.svg');
-  list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+  display:none;
 }
 
 .icon {
