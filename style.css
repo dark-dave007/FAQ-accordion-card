@@ -102,6 +102,7 @@ details {
 details > summary {
   cursor: pointer;
   border: none;
+  list-style: none;
 }
 
 details > summary::-webkit-details-marker {
